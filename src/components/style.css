@@ -1,0 +1,39 @@
+.App{
+    background-color: azure;
+    box-sizing: border-box;
+    height: 650px;
+}
+
+.nav{
+    background-color:rgb(12, 108, 181);
+    padding : '10px';
+    text-decoration-color: black;
+}
+
+.nav-tab{
+    text-decoration-color: black;
+}
+
+.form{
+    background-position: 100px;
+    padding:'50px';
+    padding-left:'550px'
+}
+
+.reg{
+    /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxi-twMQzhTA6g-bPoI_9KMbwfvtkdPJJBTw&usqp=CAU); */
+    background-image: url(https://cdn.pixabay.com/photo/2016/09/19/18/30/calculator-1680905__340.jpg);
+    background-size: cover;
+    height: 700px;
+    /* padding: 50px; */
+}
+
+.formReg{
+    padding:50px;
+    padding-left:600px
+}
+
+.home{
+    background-image: url(https://media.istockphoto.com/photos/coin-stacks-picture-id641542076?k=20&m=641542076&s=612x612&w=0&h=Y2Gpz9o2dufCZ92HjxkEEIGNQ9BCTH_Q_lOBwtftSKw=);
+    background-size: cover;
+}
